@@ -1,9 +1,9 @@
 
-###  DATE:21-03-24 
+###  DATE: 21/03/2024 
 
-###  NAME:RAGUNATH R 
-###  ROLL NO :212222240081
-###  DEPARTMENT:AI ML
+###  NAME: GANESH R 
+###  ROLL NO : 212222240029
+###  DEPARTMENT: AI&ML
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 ### AIM : 
 To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
@@ -63,7 +63,7 @@ void loop()
 
 ### OUTPUT:
  SCHEMATIC CIRCUIT
- ![image](https://github.com/Ragu-123/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/113915622/8bd3e32c-5533-415e-bbad-bea2f627f05f)
+![WhatsApp Image 2024-03-24 at 16 37 18_d6e4b752](https://github.com/ganesha360/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/120884552/9da8a6ef-f715-4299-a364-8e7e1a606ba6)
 
 
  CIRCUIT
